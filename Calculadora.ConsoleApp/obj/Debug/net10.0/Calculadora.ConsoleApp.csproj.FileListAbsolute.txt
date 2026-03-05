@@ -1,0 +1,15 @@
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\bin\Debug\net10.0\Calculadora.ConsoleApp.exe
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\bin\Debug\net10.0\Calculadora.ConsoleApp.deps.json
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\bin\Debug\net10.0\Calculadora.ConsoleApp.runtimeconfig.json
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\bin\Debug\net10.0\Calculadora.ConsoleApp.dll
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\bin\Debug\net10.0\Calculadora.ConsoleApp.pdb
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.AssemblyInfoInputs.cache
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.AssemblyInfo.cs
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.sourcelink.json
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.dll
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\refint\Calculadora.ConsoleApp.dll
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.pdb
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\Calculadora.ConsoleApp.genruntimeconfig.cache
+C:\c#\projetos c#\calculadora\Calculadora.ConsoleApp\obj\Debug\net10.0\ref\Calculadora.ConsoleApp.dll
